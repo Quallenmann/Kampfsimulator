@@ -1,4 +1,5 @@
 #Encoding: utf-8
+#test
 require_relative 'lib/fight'
 require_relative 'lib/hero'
 require_relative 'lib/monster'
